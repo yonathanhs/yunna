@@ -1,4 +1,5 @@
 const config = {
-   channelSecret: ''
-   channelAccesToken: ''
-}
+   channelSecret: "",
+   channelAccesToken: ""
+};
+export default config;
